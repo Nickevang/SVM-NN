@@ -1,0 +1,1 @@
+This is a university project. The goal was to get familiar with the basics of Neural Networks and their implementation using PyTorch, Tensorflow and other frameworks such as Scikit-learn. Everything else is explained inside the Notebook
